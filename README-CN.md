@@ -1,7 +1,7 @@
 # emoji-list
 emoji表情列表
 
-[![](https://img.shields.io/github/issues/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/issues)  [![](https://img.shields.io/github/forks/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/network) [![](https://img.shields.io/github/stars/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://travis-ci.org/caiyongji/emoji-list.svg?branch=master)](https://travis-ci.org/caiyongji/emoji-list) [![](https://img.shields.io/github/release/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
+[![](https://img.shields.io/github/issues/uicoolcn/github-emoji-list.svg)](https://github.com/uicoolcn/github-emoji-list/issues)  [![](https://img.shields.io/github/forks/uicoolcn/github-emoji-list.svg)](https://github.com/uicoolcn/github-emoji-list/network) [![](https://img.shields.io/github/stars/uicoolcn/github-emoji-list.svg)](https://github.com/uicoolcn/github-emoji-list/stargazers) [![](https://travis-ci.org/uicoolcn/github-emoji-list.svg?branch=master)](https://travis-ci.org/uicoolcn/github-emoji-list) [![](https://img.shields.io/github/release/uicoolcn/github-emoji-list.svg)](https://github.com/uicoolcn/github-emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
 目录
 -----------------
